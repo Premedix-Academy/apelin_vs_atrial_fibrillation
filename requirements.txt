@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+numpy
+pandas
+pingouin
+seaborn
+scikit-learn
+statsmodels
+unidecode
