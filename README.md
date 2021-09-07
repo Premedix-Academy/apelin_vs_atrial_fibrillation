@@ -6,7 +6,7 @@
 
 ## How to run
 ### Locally
-(Requires python et al. already set up)
+(Requires python et al. already set up; tested with python3.7)
 ```bash
 git clone https://github.com/jajcayn/apelin_vs_atrial_fibrillation.git
 cd apelin_vs_atrial_fibrillation
