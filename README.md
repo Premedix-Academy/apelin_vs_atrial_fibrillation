@@ -1,5 +1,5 @@
 # Apelin vs atrial fibrillation
-*Accompanying code for the Bohm et al. "Association between apelin and atrial fibrillation in patients with high risk of ischemic stroke" (submitted to Frontiers in Cardiovascular Medicine)*
+*Accompanying code for the Bohm, A., Snopek, P., Tothova, L., Bezak, B., Jajcay, N., Vachalcova, M., ... & Farsky, S. (2021). Association Between Apelin and Atrial Fibrillation in Patients With High Risk of Ischemic Stroke. Frontiers in cardiovascular medicine, 1298.*
 
 ## Abstract
 ### Background
@@ -15,10 +15,29 @@ Our results suggest that apelin might be used to rule out AF in patients with hi
 ## Keywords
 Atrial fibrillation; Apelin; Biomarker; Electrical atrial remodeling; Ischemic stroke
 
+## How to cite
+The paper is published in open access mode and is accessible here: https://www.frontiersin.org/articles/10.3389/fcvm.2021.742601/full
+
+### APA
+Bohm, A., Snopek, P., Tothova, L., Bezak, B., Jajcay, N., Vachalcova, M., ... & Farsky, S. (2021). Association Between Apelin and Atrial Fibrillation in Patients With High Risk of Ischemic Stroke. *Frontiers in cardiovascular medicine*, 1298.
+
+### BibTeX
+```bibtex
+@article{bohm2021association,
+  title={{Association Between Apelin and Atrial Fibrillation in Patients With High Risk of Ischemic Stroke}},
+  author={Bohm, Allan and Snopek, Peter and Tothova, Lubomira and Bezak, Branislav and Jajcay, Nikola and Vachalcova, Marianna and Uher, Tomas and Kurecko, Marian and Kissova, Viera and Danova, Katarina and others},
+  journal={Frontiers in cardiovascular medicine},
+  pages={1298},
+  year={2021},
+  publisher={Frontiers},
+  doi={https://doi.org/10.3389/fcvm.2021.742601},
+}
+```
+
 
 ## How to run
 ### Locally
-(Requires python et al. already set up; tested with python3.7)
+(Requires python et al. already set up; tested with python3.7 and your own data. Should you need help to import your own data, please contact me on email, or open an issue)
 ```bash
 git clone https://github.com/jajcayn/apelin_vs_atrial_fibrillation.git
 cd apelin_vs_atrial_fibrillation
